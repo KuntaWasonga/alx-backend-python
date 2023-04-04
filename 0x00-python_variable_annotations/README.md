@@ -1,0 +1,1 @@
+This directory contains files from the "0x00. Python variable annotations" ALX project.
