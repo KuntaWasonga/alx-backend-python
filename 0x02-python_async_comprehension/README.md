@@ -1,0 +1,1 @@
+This directory contains files from the "0x02. Python Async Comprehension" ALX project.
