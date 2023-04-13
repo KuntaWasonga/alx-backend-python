@@ -7,7 +7,7 @@ from typing import Generator
 
 
 async def async_generator() -> Generator[float, None, None]:
-    """Function that loops 10 times,each time asynchronously wait 1 second, 
+    """Function that loops 10 times,each time asynchronously wait 1 second,
        and yields a randon number
        between 0 and 10."""
     for i in range(10):
