@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Defines a function that sums up a list."""
+from typing import List
 
 
-def sum_mixed_list(mxd_lst: int | float) -> float:
+def sum_mixed_list(mxd_lst: List[int | float]) -> float:
     """Function that returns the sum of a mixed list."""
     total = 0
     for i in range(len(mxd_lst)):
